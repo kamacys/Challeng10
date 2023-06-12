@@ -1,1 +1,1 @@
-# Challeng10
+# Challeng10 citations: https://github.com/NehaTalwar/SQL-Alchemy-for-climate-analysis-and-exploration/blob/master/SQL-Alchemy Climate Exploration.ipynb, https://github.com/madhavi-r/SQLAlchemy-Climate/blob/master/climate_mycopy.ipynb
